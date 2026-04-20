@@ -1,0 +1,14 @@
+# rook-userdebug 5.1.1 LVY48F 304.6.1.8_userdebug_618515610 test-keys
+- manufacturer: amazon
+- platform: mt8163
+- codename: rook
+- flavor: rook-userdebug
+- release: 5.1.1
+- id: LVY48F
+- incremental: 304.6.1.8_userdebug_618515610
+- tags: test-keys
+- fingerprint: Amazon/rook/rook:5.1.1/LVY48F/304.6.1.8_userdebug_618515610:userdebug/test-keys
+- is_ab: false
+- brand: Amazon
+- branch: rook-userdebug-5.1.1-LVY48F-304.6.1.8_userdebug_618515610-test-keys
+- repo: amazon_rook_dump
