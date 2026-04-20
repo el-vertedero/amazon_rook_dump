@@ -1,0 +1,13 @@
+<eps> 0
+amazon1AE_B 1
+amazon2M 2
+amazon3AX 3
+amazon4Z 4
+amazon5AX 5
+amazon6N_E 6
+stop1S_B 7
+stop2T 8
+stop3AO 9
+stop4P_E 10
+[NS] 11
+[S] 12

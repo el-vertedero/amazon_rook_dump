@@ -1,0 +1,113 @@
+{
+    "masterVersion": "2018-07-05T09:53:45Z",
+    "supportPacks": [
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Nina",
+            "name": "nina",
+            "language": "en-US",
+            "source_url": "ivona/766/arm/3c1ff2544e78fca86ec5804d3aa70408/ivona_eng.usa.nina.jar",
+            "install_location": "tts/ivona/eng.usa.nina/",
+            "installed_version": "",
+            "current_version": "2017-12-04T16:58:05Z",
+            "type": "TTS_VOICE",
+            "size": "289248337"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Abbey",
+            "name": "abbey",
+            "language": "en-GB",
+            "source_url": "ivona/766/arm/6f176aaf5bd2dc66f3ebf51aa5af6ee7/ivona_eng.gbr.abbey.jar",
+            "install_location": "tts/ivona/eng.gbr.abbey/",
+            "installed_version": "",
+            "current_version": "2017-12-12T12:58:24Z",
+            "type": "TTS_VOICE",
+            "size": "291267367"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Silke",
+            "name": "silke",
+            "language": "de-DE",
+            "source_url": "ivona/767/arm/e00fd02ec5ebd7e4f8ea68940c29a483/ivona_deu.deu.silke.jar",
+            "install_location": "tts/ivona/deu.deu.silke/",
+            "installed_version": "",
+            "current_version": "2017-12-05T13:50:00Z",
+            "type": "TTS_VOICE",
+            "size": "328117706"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Yumiko",
+            "name": "yumiko",
+            "language": "ja-JP",
+            "source_url": "ivona/794/arm/51295940f70cd69a5220b19b03694c4b/ivona_jpn.jpn.yumiko.jar",
+            "install_location": "tts/ivona/jpn.jpn.yumiko/",
+            "installed_version": "",
+            "current_version": "2018-04-19T16:07:25Z",
+            "type": "TTS_VOICE",
+            "size": "241168989"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Ira",
+            "name": "ira",
+            "language": "en-IN",
+            "source_url": "ivona/786/arm/c5f33753d2a9f9f5ccaef9d21594e1f1/ivona_eng.ind.ira.jar",
+            "install_location": "tts/ivona/eng.ind.ira/",
+            "installed_version": "",
+            "current_version": "2018-02-15T18:01:14Z",
+            "type": "TTS_VOICE",
+            "size": "444296321"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Evelyn",
+            "name": "evelyn",
+            "language": "en-CA",
+            "source_url": "ivona/785/arm/517c40654b55e2cb04d6ce86eac299ed/ivona_eng.can.evelyn.jar",
+            "install_location": "tts/ivona/eng.can.evelyn/",
+            "installed_version": "",
+            "current_version": "2018-02-15T14:49:00Z",
+            "type": "TTS_VOICE",
+            "size": "314238454"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Ella",
+            "name": "ella",
+            "language": "en-AU",
+            "source_url": "ivona/787/arm/6c02431aca7179010ab841e8f3eb55a1/ivona_eng.aus.ella.jar",
+            "install_location": "tts/ivona/eng.aus.ella/",
+            "installed_version": "",
+            "current_version": "2018-02-15T19:17:10Z",
+            "type": "TTS_VOICE",
+            "size": "311926321"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Chloe",
+            "name": "chloe",
+            "language": "fr-FR",
+            "source_url": "ivona/1091/arm/09eebdb528c34197ad80893699e977d5/ivona_fra.fra.chloe.jar",
+            "install_location": "tts/ivona/fra.fra.chloe/",
+            "installed_version": "",
+            "current_version": "2018-07-05T09:53:45Z",
+            "type": "TTS_VOICE",
+            "size": "251109580"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Giulia",
+            "name": "giulia",
+            "language": "it-IT",
+            "install_location": "tts/ivona/ita.ita.giulia/",
+            "installed_version": "",
+            "type": "TTS_VOICE",
+            "source_url": "ivona/1059/arm/1e6a5a00316a4597919f54d7631c7edd/ivona_ita.ita.giulia.jar",
+            "current_version": "2018-06-05T16:26:33Z",
+            "size": "259906627"
+        }
+    ]
+}

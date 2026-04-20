@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- eve_feature.xml
+
+     Copyright (c) 2016 Amazon.com, Inc. or its affiliates.  All rights reserved.
+
+     PROPRIETARY/CONFIDENTIAL
+
+     Use is subject to license terms.
+-->
+<permissions>
+    <!-- By declaring the feature fireos.software.eve here, the api
+         PackageManager.hasSystemFeature(String feature) will
+         return true if passed the String fireos.software.eve.-->
+    <feature name="fireos.software.eve" />
+</permissions>

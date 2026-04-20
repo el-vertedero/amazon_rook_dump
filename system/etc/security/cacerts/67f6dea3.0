@@ -1,0 +1,98 @@
+-----BEGIN CERTIFICATE-----
+MIIEjDCCA3SgAwIBAgIKYV4MWgAAAAAABDANBgkqhkiG9w0BAQUFADA5MTcwNQYD
+VQQDEy5BbWF6b24uY29tIEludGVybmFsIFJvb3QgQ2VydGlmaWNhdGUgQXV0aG9y
+aXR5MB4XDTExMDYyMjIyMDcyMloXDTE2MDYyMjIyMTcyMlowZTETMBEGCgmSJomT
+8ixkARkWA2NvbTEWMBQGCgmSJomT8ixkARkWBmFtYXpvbjETMBEGCgmSJomT8ixk
+ARkWA2FudDEhMB8GA1UEAxMYQW1hem9uLmNvbSBJbmZvc2VjIENBIEcyMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAndbiaMOUq25ke6pKsBA33sCPSNja
+xIKDuqcqjIBKE/hU3VNcbIZMjCawveZqgt5uZCM+U2Yk11Lm4814bu/ntx3CrHMO
+W1xWaehawlX4/c/tNsc5qtpe/JhdgA2sZohbnpT6BlyxZXl90mbCyVwbn42TqYhX
+PEfEaOlY4RKGZUr5TDIRbErdqm8w9Z4SjoCxsLw9tRMiuTR7s+fSULC5dMcwUcY5
+YxgR+wDHJFK06ylXp8Qk6/0ERthjufz4n+o+9cN8u6fpFn5BUgBP1pRrIyG0U1Vx
+A9dD6j611kgsubfd7dCnarhm56G5rk7SuKC1qvL3+ypxEnaHYeiiBQevwwIDAQAB
+o4IBaDCCAWQwEAYJKwYBBAGCNxUBBAMCAQAwHQYDVR0OBBYEFJFuh4KdJsdpZ077
+o7YIcWsvyGRSMBkGCSsGAQQBgjcUAgQMHgoAUwB1AGIAQwBBMAsGA1UdDwQEAwIB
+hjAPBgNVHRMBAf8EBTADAQH/MB8GA1UdIwQYMBaAFH+NsU5MopgK3Isnv2IFaTwl
+ErPCMGUGA1UdHwReMFwwWqBYoFaGVGh0dHA6Ly9wa2kuYW1hem9uLmNvbS9jcmwv
+QW1hem9uLmNvbSUyMEludGVybmFsJTIwUm9vdCUyMENlcnRpZmljYXRlJTIwQXV0
+aG9yaXR5LmNybDBwBggrBgEFBQcBAQRkMGIwYAYIKwYBBQUHMAKGVGh0dHA6Ly9w
+a2kuYW1hem9uLmNvbS9jcnQvQW1hem9uLmNvbSUyMEludGVybmFsJTIwUm9vdCUy
+MENlcnRpZmljYXRlJTIwQXV0aG9yaXR5LmNydDANBgkqhkiG9w0BAQUFAAOCAQEA
+ucghckHo+gfm+QncFjGujLcyUjco/NBSyeQI9sA7OOdjcbTV573LDInothOuGWe9
+XJWgBtTNaF+QuxrYLUha3+3hJ/VbvWUxAOmpR3/iVMGW9gIpxj/HPRrQMMXuLFrB
+ZcKKX9pRLYlwj3ylqJpdAmyzvqJT9spuIrvbfWOl12PIutQjTyOsT8bSxQW4f4lm
+m1UmnufSXq1tckZ/WxO+6yajZhsFG5LfPp8dgQ3c2DuZE15wzjkiHAGzSwLnz7p8
+0TbUubBy23cxssV65vMy2gsr0e58+QCPRUlyOwu24OFbKytmOhRTQO1ZN3gtt1YY
+dw9nSS0aXZtXx1pQJRNayQ==
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            61:5e:0c:5a:00:00:00:00:00:04
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Amazon.com Internal Root Certificate Authority
+        Validity
+            Not Before: Jun 22 22:07:22 2011 GMT
+            Not After : Jun 22 22:17:22 2016 GMT
+        Subject: DC=com, DC=amazon, DC=ant, CN=Amazon.com Infosec CA G2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:9d:d6:e2:68:c3:94:ab:6e:64:7b:aa:4a:b0:10:
+                    37:de:c0:8f:48:d8:da:c4:82:83:ba:a7:2a:8c:80:
+                    4a:13:f8:54:dd:53:5c:6c:86:4c:8c:26:b0:bd:e6:
+                    6a:82:de:6e:64:23:3e:53:66:24:d7:52:e6:e3:cd:
+                    78:6e:ef:e7:b7:1d:c2:ac:73:0e:5b:5c:56:69:e8:
+                    5a:c2:55:f8:fd:cf:ed:36:c7:39:aa:da:5e:fc:98:
+                    5d:80:0d:ac:66:88:5b:9e:94:fa:06:5c:b1:65:79:
+                    7d:d2:66:c2:c9:5c:1b:9f:8d:93:a9:88:57:3c:47:
+                    c4:68:e9:58:e1:12:86:65:4a:f9:4c:32:11:6c:4a:
+                    dd:aa:6f:30:f5:9e:12:8e:80:b1:b0:bc:3d:b5:13:
+                    22:b9:34:7b:b3:e7:d2:50:b0:b9:74:c7:30:51:c6:
+                    39:63:18:11:fb:00:c7:24:52:b4:eb:29:57:a7:c4:
+                    24:eb:fd:04:46:d8:63:b9:fc:f8:9f:ea:3e:f5:c3:
+                    7c:bb:a7:e9:16:7e:41:52:00:4f:d6:94:6b:23:21:
+                    b4:53:55:71:03:d7:43:ea:3e:b5:d6:48:2c:b9:b7:
+                    dd:ed:d0:a7:6a:b8:66:e7:a1:b9:ae:4e:d2:b8:a0:
+                    b5:aa:f2:f7:fb:2a:71:12:76:87:61:e8:a2:05:07:
+                    af:c3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 Subject Key Identifier: 
+                91:6E:87:82:9D:26:C7:69:67:4E:FB:A3:B6:08:71:6B:2F:C8:64:52
+            1.3.6.1.4.1.311.20.2: 
+                .
+.S.u.b.C.A
+            X509v3 Key Usage: 
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Authority Key Identifier: 
+                keyid:7F:8D:B1:4E:4C:A2:98:0A:DC:8B:27:BF:62:05:69:3C:25:12:B3:C2
+
+            X509v3 CRL Distribution Points: 
+                URI:http://pki.amazon.com/crl/Amazon.com%20Internal%20Root%20Certificate%20Authority.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://pki.amazon.com/crt/Amazon.com%20Internal%20Root%20Certificate%20Authority.crt
+
+    Signature Algorithm: sha1WithRSAEncryption
+        b9:c8:21:72:41:e8:fa:07:e6:f9:09:dc:16:31:ae:8c:b7:32:
+        52:37:28:fc:d0:52:c9:e4:08:f6:c0:3b:38:e7:63:71:b4:d5:
+        e7:bd:cb:0c:89:e8:b6:13:ae:19:67:bd:5c:95:a0:06:d4:cd:
+        68:5f:90:bb:1a:d8:2d:48:5a:df:ed:e1:27:f5:5b:bd:65:31:
+        00:e9:a9:47:7f:e2:54:c1:96:f6:02:29:c6:3f:c7:3d:1a:d0:
+        30:c5:ee:2c:5a:c1:65:c2:8a:5f:da:51:2d:89:70:8f:7c:a5:
+        a8:9a:5d:02:6c:b3:be:a2:53:f6:ca:6e:22:bb:db:7d:63:a5:
+        d7:63:c8:ba:d4:23:4f:23:ac:4f:c6:d2:c5:05:b8:7f:89:66:
+        9b:55:26:9e:e7:d2:5e:ad:6d:72:46:7f:5b:13:be:eb:26:a3:
+        66:1b:05:1b:92:df:3e:9f:1d:81:0d:dc:d8:3b:99:13:5e:70:
+        ce:39:22:1c:01:b3:4b:02:e7:cf:ba:7c:d1:36:d4:b9:b0:72:
+        db:77:31:b2:c5:7a:e6:f3:32:da:0b:2b:d1:ee:7c:f9:00:8f:
+        45:49:72:3b:0b:b6:e0:e1:5b:2b:2b:66:3a:14:53:40:ed:59:
+        37:78:2d:b7:56:18:77:0f:67:49:2d:1a:5d:9b:57:c7:5a:50:
+        25:13:5a:c9

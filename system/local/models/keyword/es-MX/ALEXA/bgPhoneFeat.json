@@ -1,0 +1,146 @@
+{
+    "object_type_name": "bg-monophone-feature",
+    "object_type_version": 1,
+    "total-pdf-num": 131,
+    "total-phone-num": 44,
+    "pdf-index": {
+        "bg-non-speech-begin": 48,
+        "bg-non-speech-end": 58,
+        "bg-speech-begin": 58,
+        "bg-speech-end": 178
+    },
+    "monophone":[
+        {
+            "name": "SIL",
+            "begin": 48, "end": 49 },
+        {
+            "name": "SPN",
+            "begin": 49, "end": 52 },
+        {
+            "name": "NSN",
+            "begin": 52, "end": 55 },
+        {
+            "name": "PAU",
+            "begin": 55, "end": 58 },
+        {
+            "name": "AA",
+            "begin": 58, "end": 61 },
+        {
+            "name": "AE",
+            "begin": 61, "end": 64 },
+        {
+            "name": "AH",
+            "begin": 64, "end": 67 },
+        {
+            "name": "AO",
+            "begin": 67, "end": 70 },
+        {
+            "name": "AW",
+            "begin": 70, "end": 73 },
+        {
+            "name": "AX",
+            "begin": 73, "end": 76 },
+        {
+            "name": "AY",
+            "begin": 76, "end": 79 },
+        {
+            "name": "B",
+            "begin": 79, "end": 82 },
+        {
+            "name": "CH",
+            "begin": 82, "end": 85 },
+        {
+            "name": "D",
+            "begin": 85, "end": 88},
+        {
+            "name": "DH",
+            "begin": 88, "end": 91 },
+        {
+            "name": "EH",
+            "begin": 91, "end": 94 },
+        {
+            "name": "ER",
+            "begin": 94, "end": 97 },
+        {
+            "name": "EY",
+            "begin": 97, "end": 100 },
+        {
+            "name": "F",
+            "begin": 100, "end": 103 },
+        {
+            "name": "G",
+            "begin": 103, "end": 106 },
+        {
+            "name": "HH",
+            "begin": 106, "end": 109 },
+        {
+            "name": "IH",
+            "begin": 109, "end": 112 },
+        {
+            "name": "IY",
+            "begin": 112, "end": 115 },
+        {
+            "name": "JH",
+            "begin": 115, "end": 118 },
+        {
+            "name": "K",
+            "begin": 118, "end": 121 },
+        {
+            "name": "L",
+            "begin": 121, "end": 124 },
+        {
+            "name": "M",
+            "begin": 124, "end": 127 },
+        {
+            "name": "N",
+            "begin": 127, "end": 130 },
+        {
+            "name": "NG",
+            "begin": 130, "end": 133 },
+        {
+            "name": "OW",
+            "begin": 133, "end": 136 },
+        {
+            "name": "OY",
+            "begin": 136, "end": 139 },
+        {
+            "name": "P",
+            "begin": 139, "end": 142 },
+        {
+            "name": "R",
+            "begin": 142, "end": 145 },
+        {
+            "name": "S",
+            "begin": 145, "end": 148 },
+        {
+            "name": "SH",
+            "begin": 148, "end": 151 },
+        {
+            "name": "T",
+            "begin": 151, "end": 154 },
+        {
+            "name": "TH",
+            "begin": 154, "end": 157 },
+        {
+            "name": "UH",
+            "begin": 157, "end": 160 },
+        {
+            "name": "UW",
+            "begin": 160, "end": 163 },
+        {
+            "name": "V",
+            "begin": 163, "end": 166 },
+        {
+            "name": "W",
+            "begin": 166, "end": 169 },
+        {
+            "name": "Y",
+            "begin": 169, "end": 172 },
+        {
+            "name": "Z",
+            "begin": 172, "end": 175 },
+        {
+            "name": "ZH",
+            "begin": 175, "end": 178 }
+    ]
+}

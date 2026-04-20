@@ -1,0 +1,16 @@
+<eps> 0
+computer1K_B 1
+computer2AX 2
+computer3M 3
+computer4P 4
+computer5Y 5
+computer6UW 6
+computer7T 7
+computer8AX 8
+computer9R_E 9
+stop1S_B 10
+stop2T 11
+stop3AO 12
+stop4P_E 13
+[NS] 14
+[S] 15
