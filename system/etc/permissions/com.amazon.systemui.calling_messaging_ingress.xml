@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <!-- System UI supports a touch ingress for calling and messaging -->
+    <feature name="com.amazon.systemui.calling_messaging_ingress" />
+</permissions>

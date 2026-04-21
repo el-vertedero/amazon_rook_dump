@@ -1,0 +1,34 @@
+{
+    "MetricConfig":[
+       {
+          "Active":true,
+          "MetricName":"IdleDetector",
+          "PMET_Metric_Interface":{
+             "ProgramName":"IdleDetector",
+             "Active":true
+          },
+          "Minerva_Metric_Interface":{
+             "Schema_Id":"sy40/2/06330410",
+             "Group_Id":"y2dnv1w4",
+             "Active":true,
+             "Metrics":[
+               {
+                  "Name": "duration_type",
+                  "DimensionTag":"DurationType",
+                  "Type": "str"
+               },
+               {
+                  "Name": "duration_value",
+                  "DimensionTag":"DurationValue",
+                  "Type": "int"
+               }
+            ]
+          }
+       }
+    ],
+    "MinervaConfig":{
+       "Enabled":true,
+       "Region":"us-east-1",
+       "GroupId":"y2dnv1w4"
+    }
+}
