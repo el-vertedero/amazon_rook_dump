@@ -1,0 +1,14 @@
+# rook-user 5.1.1 LVY48F 304.6.9.0_user_690918020 release-keys
+- manufacturer: amazon
+- platform: mt8163
+- codename: rook
+- flavor: rook-user
+- release: 5.1.1
+- id: LVY48F
+- incremental: 304.6.9.0_user_690918020
+- tags: release-keys
+- fingerprint: Amazon/rook/rook:5.1.1/LVY48F/304.6.9.0_user_690918020:user/release-keys
+- is_ab: false
+- brand: Amazon
+- branch: rook-user-5.1.1-LVY48F-304.6.9.0_user_690918020-release-keys
+- repo: amazon_rook_dump
